@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZxJIs3Rk5OmaRdjwR0MmOa+S7fcSLQbAT+LvE5tjnn0FUM0XT9Ouv874S2GfZxdke+oLqsj10uXeLRdXgWa0ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\GTK_inicio\\GTK_inicio\\GTK_inicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\atksharp\\3.24.24.95\\atksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\cairosharp\\3.24.24.95\\cairosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\gdksharp\\3.24.24.95\\gdksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\giosharp\\3.24.24.95\\giosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\glibsharp\\3.24.24.95\\glibsharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\gtksharp\\3.24.24.95\\gtksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\magick.net-q16-anycpu\\13.3.0\\magick.net-q16-anycpu.13.3.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\magick.net.core\\13.3.0\\magick.net.core.13.3.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\pangosharp\\3.24.24.95\\pangosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\webkitgtksharp\\3.24.24.95\\webkitgtksharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
